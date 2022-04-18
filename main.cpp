@@ -1,8 +1,5 @@
 #include <opencv2/opencv.hpp>
-//#include "videoProcess.h"
-//#include "base64.h"
-//#include "json.h"
-//#include "json_fastcgi_web_api.h"
+#include "videoProcess.h"
 
 int main() {
     std::cout<<"start!"<< std::endl;
